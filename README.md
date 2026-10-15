@@ -97,4 +97,3 @@ git push -u origin main
 
 ---
 
-<img width="129" height="59" alt="image-20250322141801164" src="https://github.com/user-attachments/assets/6c0e04d3-6c7a-4d3f-ba29-77e634d19a39" />
