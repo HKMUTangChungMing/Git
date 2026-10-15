@@ -4,7 +4,7 @@ This is using Git to upload single large file  !!! ~~~🐺
 
 # 使用 git 來上傳單個容量比較大的檔案
 
-![image-20250322141801164](http://pdm888.oss-cn-beijing.aliyuncs.com/img/image-20250322141801164.png) 
+![image-20250322141801164](./images/image-20250322141801164.png) 
 
 下載
 
@@ -12,13 +12,13 @@ https://git-scm.com/
 
 ## Step 1 : 在當前文件夾，使用CMD。
 
-![image-20250322015554170](http://pdm888.oss-cn-beijing.aliyuncs.com/img/image-20250322015554170.png) 
+![image-20250322015554170](./images/image-20250322015554170.png) 
 
 ---
 
 ## Step 2 : 進入CMD 後，輸入以下 Command
 
-![image-20250322015631599](http://pdm888.oss-cn-beijing.aliyuncs.com/img/image-20250322015631599.png) 
+![image-20250322015631599](./images/image-20250322015631599.png) 
 
 ````
 git init
@@ -84,7 +84,7 @@ git commit -m "Initial commit"
 
 ## Step 3 : 將本機嘅 Git 倉庫，連接到 GitHub 上嗰個倉庫（remote repository）
 
-## ![image-20250322021303469](http://pdm888.oss-cn-beijing.aliyuncs.com/img/image-20250322021303469.png) 
+## ![image-20250322021303469](./images/image-20250322021303469.png) 
 
 ```
 git remote add origin https://github.com/HKMUTangChungMing/hhh.git
