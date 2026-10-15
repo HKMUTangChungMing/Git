@@ -89,11 +89,11 @@ git commit -m "Initial commit"
 ## Step 3 : 將本機嘅 Git 倉庫，連接到 GitHub 上嗰個倉庫（remote repository）
 
 <img width="1089" height="844" alt="image-20250322021303469" src="https://github.com/user-attachments/assets/679df1bd-ff95-49c4-8ab5-03640545ff84" />
+
 ```
 git remote add origin https://github.com/HKMUTangChungMing/hhh.git
 git branch -M main
 git push -u origin main
 ```
 
----
 
