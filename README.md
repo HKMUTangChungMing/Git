@@ -1,10 +1,13 @@
 # Git
+
 This is using Git to upload single large file  !!! ~~~🐺
 
 
 # 使用 git 來上傳單個容量比較大的檔案
 
-![image-20250322141801164](./images/image-20250322141801164.png) 
+
+<img width="129" height="59" alt="image-20250322141801164" src="https://github.com/user-attachments/assets/20fa13be-079b-46a9-ab59-029a4b0260a4" />
+
 
 下載
 
@@ -12,13 +15,14 @@ https://git-scm.com/
 
 ## Step 1 : 在當前文件夾，使用CMD。
 
-![image-20250322015554170](./images/image-20250322015554170.png) 
 
+<img width="482" height="430" alt="image-20250322015554170" src="https://github.com/user-attachments/assets/88a85b37-753b-4b73-a16d-433ffff8d009" />
 ---
 
 ## Step 2 : 進入CMD 後，輸入以下 Command
 
-![image-20250322015631599](./images/image-20250322015631599.png) 
+<img width="686" height="319" alt="image-20250322015631599" src="https://github.com/user-attachments/assets/02761334-d163-4664-beaa-df92ceda8e26" />
+
 
 ````
 git init
@@ -84,8 +88,7 @@ git commit -m "Initial commit"
 
 ## Step 3 : 將本機嘅 Git 倉庫，連接到 GitHub 上嗰個倉庫（remote repository）
 
-## ![image-20250322021303469](./images/image-20250322021303469.png) 
-
+<img width="1089" height="844" alt="image-20250322021303469" src="https://github.com/user-attachments/assets/679df1bd-ff95-49c4-8ab5-03640545ff84" />
 ```
 git remote add origin https://github.com/HKMUTangChungMing/hhh.git
 git branch -M main
@@ -94,3 +97,4 @@ git push -u origin main
 
 ---
 
+<img width="129" height="59" alt="image-20250322141801164" src="https://github.com/user-attachments/assets/6c0e04d3-6c7a-4d3f-ba29-77e634d19a39" />
